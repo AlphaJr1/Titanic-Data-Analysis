@@ -2,6 +2,9 @@
 
 This project focuses on analyzing the Titanic dataset to uncover patterns and insights regarding passenger survival. The analysis is performed using various data science techniques and libraries in Python.
 
+Presentation:
+https://www.canva.com/design/DAFwZQfX74U/FcrmgDd2T1UtaKfySxGpIw/view?utm_content=DAFwZQfX74U&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
