@@ -56,6 +56,7 @@ The following libraries are used in this project:
 Open the Jupyter Notebook to explore the analysis:
 ```bash
 jupyter notebook 2_3_2AM_Titanic.ipynb
+```
 
 ## Results
 
